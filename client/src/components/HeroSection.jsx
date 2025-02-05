@@ -74,7 +74,7 @@ export default function HeroSection() {
     Experience The Best Handicrafted Products With Us!
   </p>
   <p className="text-lg md:text-2xl mt-4 text-red-950">
-  <marquee>NIFA OVERSEAS is a handicraft export, trading, and manufacturing company that specializes in producing and selling antique handicraft products made by skilled small artisans</marquee>
+  <marquee>NIFA OVERSEAS is a handicraft export, trading, and manufacturing company that specializes in producing and selling antique handicraft products made by skilled small artisans.</marquee>
   
   </p>
 </div>
